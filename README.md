@@ -51,11 +51,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jheelamH&theme=dark" alt="jheelamH's GitHub Streak">
 </p>
 
-<!-- Visitor Count -->
+<!-- Visitor Count with Hello Kitty -->
 <h3 align="left">Visitor Count:</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jheelamH&style=flat-square&color=blueviolet" alt="visitor badge">
+  <img src="(https://images.app.goo.gl/N87NLK6qcTmm1vB3A)" alt="Hello Kitty" height="30px">
 </p>
+
 
 <!-- Footer -->
 <p align="center">
