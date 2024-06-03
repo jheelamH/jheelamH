@@ -54,7 +54,7 @@
 <!-- Visitor Count -->
 <h3 align="left">Visitor Count:</h3>
 <p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jheelamH.jheelamH" alt="visitor badge">
+  <img src="https://komarev.com/ghpvc/?username=jheelamH&style=flat-square&color=blueviolet" alt="visitor badge">
 </p>
 
 <!-- Footer -->
