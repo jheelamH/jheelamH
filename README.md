@@ -51,16 +51,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jheelamH&theme=dark" alt="jheelamH's GitHub Streak">
 </p>
 
-<!-- Visitor Count -->
-<h3 align="left">Visitor Count:</h3>
+<!-- Visitor Count Graph -->
+<h3 align="left">Visitor Count Graph:</h3>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jheelamH&style=flat-square&color=blueviolet" alt="visitor badge">
-</p>
-
-<!-- Visitor Count -->
-<h3 align="left">Visitor Count:</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jheelamH&style=flat-square&color=blueviolet" alt="visitor badge">
+  <img src="https://komarev.com/ghpvc/?username=jheelamH&style=flat-square&color=blueviolet" alt="visitor count graph">
 </p>
 
 <!-- Footer -->
