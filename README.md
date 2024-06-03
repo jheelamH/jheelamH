@@ -30,7 +30,12 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   </a>
-  <!-- Add more icons as needed -->
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+  </a>
+  <a href="https://www.iso.org/iso-9899-c-standard.html" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+  </a>
 </p>
 
 <!-- GitHub Stats -->
