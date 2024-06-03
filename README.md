@@ -44,11 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jheelamH&show_icons=true&theme=dark" alt="jheelamH's GitHub Stats">
 </p>
 
-<!-- Most Used Languages -->
-<h3 align="left">Most Used Languages:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheelamH&layout=compact&theme=dark" alt="jheelamH's Most Used Languages">
-</p>
 
 <!-- Streak Stats -->
 <h3 align="left">GitHub Streak:</h3>
