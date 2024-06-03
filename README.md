@@ -55,7 +55,7 @@
 <h3 align="left">Visitor Count:</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jheelamH&style=flat-square&color=blueviolet" alt="visitor badge">
-  <img src="(https://images.app.goo.gl/N87NLK6qcTmm1vB3A)" alt="Hello Kitty" height="30px">
+ 
 </p>
 
 
