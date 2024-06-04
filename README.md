@@ -17,9 +17,9 @@
 
 <!-- About Me -->
 - 🌱 I’m currently learning Cpp,Java,C and Python
-- 👯 I’m looking to collaborate on AI and Ml projects
-- 🤔 I’m looking for help with machine learning
-- 📫 How to reach me jheelamhossain147@gmail.com
+- 👯 I’m looking to collaborate on AI and ML projects
+- 🤔 I’m looking to build a platform for myself.
+- 📫 How to reach me:-  jheelamhossain147@gmail.com
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
