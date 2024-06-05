@@ -16,31 +16,4 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-name: Generate Snake Game
 
-on:
-  schedule:
-    # Runs at 12am UTC every day
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Generate Snake Game
-        uses: Platane/snk@master
-        with:
-          github_user_name: jheelamH
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - name: Upload Snake Game
-        uses: actions/upload-artifact@v2
-        with:
-          name: snake-game
-          path: dist/github-contribution-grid-snake.svg
