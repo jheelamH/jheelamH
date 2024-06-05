@@ -43,12 +43,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jheelamH&show_icons=true&theme=dark" alt="jheelamH's GitHub Stats">
 </p>
-<!-- Snake Game -->
-<h3 align="left">Snake Game:</h3>
-<p align="center">
-  <img src="https://github.com/jheelamH/jheelamH/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
-</p>
-
 
 <!-- Streak Stats -->
 <h3 align="left">GitHub Streak:</h3>
