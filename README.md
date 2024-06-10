@@ -20,6 +20,7 @@
 - 👯 I’m looking to collaborate on AI and ML projects
 - 🤔 I’m looking to build a platform for myself.
 - 📫 How to reach me:-  jheelamhossain147@gmail.com
+- 💕 Please follow me if you like my work and give a star
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
