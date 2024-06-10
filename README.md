@@ -33,14 +33,6 @@
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
 </p>
-<!-- Tools for Data Manipulation -->
-<h3 align="left">Tools for Data Manipulation:</h3>
-<p align="left">
-  
-  <img src="https://img.icons8.com/windows/32/000000/anaconda.png" alt="Anaconda" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/jupyter.png" alt="Jupyter" />
-</p>
-
 <!-- Most Used Languages -->
 <h3 align="left">Most Used Languages:</h3>
 <p align="left">
