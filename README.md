@@ -1,12 +1,12 @@
 <!-- Header -->
 <h1 align="center">Hi there, I'm Jheelam Hossain 👋</h1>
 <h3 align="center">A passionate CSE student from Kolkata, India</h3>
+<!-- Dynamic Profile Image -->
+<p align="center">
+  <img src="https://github.com/jheelamH.png" alt="Jheelam Hossain's Profile Picture" width="150" height="150">
+</p>
 
 <!-- Social Links -->
-<p align="center">
-  <a href="https://twitter.com/jheelamH">
-    <img src="https://img.shields.io/twitter/follow/jheelamH?label=Twitter&style=social" alt="Twitter">
-  </a>
   <a href="https://linkedin.com/in/jheelamH">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social" alt="LinkedIn">
   </a>
@@ -35,8 +35,6 @@
 <!-- Tools -->
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/000000/pandas.png" alt="pandas" />
-  <img src="https://img.icons8.com/ios-filled/50/4a90e2/seaborn.png" alt="seaborn" />
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
 </p>
