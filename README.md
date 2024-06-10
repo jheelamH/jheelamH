@@ -1,11 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there, I'm Jheelam Hossain 👋</h1>
 <h3 align="center">A passionate CSE student from Kolkata, India</h3>
-<!-- Dynamic Profile Image -->
-<p align="center">
-  <img src="https://github.com/jheelamH.png" alt="Jheelam Hossain's Profile Picture" width="150" height="150">
-</p>
-
 <!-- Social Links -->
   <a href="https://linkedin.com/in/jheelamH">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social" alt="LinkedIn">
@@ -56,11 +51,10 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jheelamH&theme=dark" alt="jheelamH's GitHub Streak">
 </p>
-
-<!-- Visitor Count Graph -->
-<h3 align="left">Visitor Count Graph:</h3>
+<!-- Visitor Count -->
+<h3 align="left">Visitor Count:</h3>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jheelamH&style=flat-square&color=blueviolet" alt="visitor count graph">
+  <img src="https://hits.dwyl.com/jheelamH/jheelamH.svg" alt="Hit Counter">
 </p>
 
 <!-- Footer -->
