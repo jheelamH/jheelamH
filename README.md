@@ -38,6 +38,11 @@
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
   </a>
 </p>
+<!-- Most Used Languages -->
+<h3 align="left">Most Used Languages:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheelamH&layout=compact&langs_count=10" alt="jheelamH's Most Used Languages">
+</p>
 
 <!-- GitHub Stats -->
 <h3 align="left">GitHub Stats:</h3>
