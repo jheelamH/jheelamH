@@ -35,7 +35,8 @@
 <!-- Tools -->
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="scikit-learn" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/pandas.png" alt="pandas" />
+  <img src="https://img.icons8.com/ios-filled/50/4a90e2/seaborn.png" alt="seaborn" />
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
 </p>
