@@ -51,11 +51,7 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jheelamH&theme=dark" alt="jheelamH's GitHub Streak">
 </p>
-<!-- Visitor Count -->
-<h3 align="left">Visitor Count:</h3>
-<p align="left">
-  <img src="https://hits.dwyl.com/jheelamH/jheelamH.svg" alt="Hit Counter">
-</p>
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjheelamH&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor+Count&edge_flat=false)
 
 <!-- Footer -->
 <p align="center">
