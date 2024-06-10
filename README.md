@@ -22,15 +22,21 @@
 - 📫 How to reach me:-  jheelamhossain147@gmail.com
 - 💕 Please follow me if you like my work and give a star
 
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
+<!-- Languages -->
+<h3 align="left">Languages:</h3>
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
+</p>
+
+<!-- Tools -->
+<h3 align="left">Tools:</h3>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="scikit-learn" />
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
 </p>
 
