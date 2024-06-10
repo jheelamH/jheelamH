@@ -25,19 +25,16 @@
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-  </a>
-  <a href="https://www.iso.org/iso-9899-c-standard.html" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-  </a>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="scikit-learn" />
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
 </p>
+
 <!-- Most Used Languages -->
 <h3 align="left">Most Used Languages:</h3>
 <p align="left">
