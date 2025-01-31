@@ -43,7 +43,8 @@
 </p>
 <h3 align="left">Most Used Languages:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jheelamhossain&show_icons=true&locale=en&layout=compact" alt="jheelamhossain" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jheelamhossain&show_icons=true&locale=en&layout=compact&count_private=true" alt="jheelamhossain" />
+
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
