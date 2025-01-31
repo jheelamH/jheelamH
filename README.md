@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jheelamhossain" alt="jheelamhossain" /></a> </p>
 
-- 🔭 I’m currently working on **Sentiment Analysis based on Machine Learning**
+- 🔭 I’m currently working on **Sentiment Analysis based on NLP using transformer models**
 
-- 🌱 I’m currently learning **Cpp, Java, Python, and C**
+- 🌱 I’m currently learning **Java and Cpp**
 
 - 👯 I’m looking to collaborate on **ML and AI projects**
 
