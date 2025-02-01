@@ -50,10 +50,3 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jheelamH&theme=dark&border_radius=6.4&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-
-
-
-<h3 align="left">GitHub Streak Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jheelamhossain&" alt="jheelamhossain" />
-</p>
