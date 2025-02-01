@@ -50,8 +50,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jheelamhossain&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" alt="jheelamhossain" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jheelamhossain&show_icons=true&count_private=true&hide=prs&theme=tokyonight&include_all_commits=true" alt="jheelamhossain" />
 </p>
+
 
 
 <h3 align="left">GitHub Streak Stats:</h3>
