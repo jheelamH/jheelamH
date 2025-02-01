@@ -1,0 +1,29 @@
+name: Update Most Used Languages
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: jheelamhossain
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          layout: compact
+          count_private: true
+          theme: radical
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Updated Most Used Languages dynamically"
+          git push
