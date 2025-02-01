@@ -1,8 +1,8 @@
-name: Update Most Used Languages
+name: Update README with Most Used Languages
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Update daily
+    - cron: '0 0 * * *'  # Update daily at midnight
   workflow_dispatch:  # Trigger manually
 
 jobs:
@@ -13,16 +13,14 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Set up Node.js (required for GitHub Readme Stats)
-      uses: actions/setup-node@v2
-      with:
-        node-version: '14'
-
     - name: Generate README Stats
       run: |
-        curl -s https://raw.githubusercontent.com/anuraghazra/github-readme-stats/v4.0.0/src/index.js | node
+        curl -s https://github-readme-stats.vercel.app/api/top-langs?username=jheelamH&show_icons=true&layout=compact&count_private=true > stats.svg
 
-    - name: Commit and Push Changes
-      uses: EndBug/add-and-commit@v7
-      with:
-        message: 'Update Most Used Languages'
+    - name: Update README file
+      run: |
+        echo "![Most Used Languages](./stats.svg)" >> README.md
+        git add README.md
+        git commit -m "Update most used languages"
+        git push
+
