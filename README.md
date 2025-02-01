@@ -49,9 +49,7 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jheelamhossain&show_icons=true&count_private=true&hide=prs&theme=tokyonight&include_all_commits=true" alt="jheelamhossain" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jheelamH&theme=dark&border_radius=6.4&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 
 
