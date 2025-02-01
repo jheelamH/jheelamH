@@ -43,10 +43,8 @@
 </p>
 <h3 align="left">Most Used Languages:</h3>
 <p align="left">
-  ![Most Used Languages](./stats.svg)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jheelamH&show_icons=true&layout=compact&count_private=true" alt="Most Used Languages"/>
 </p>
-
-
 
 </p>
 
