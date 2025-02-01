@@ -2,28 +2,27 @@ name: Update Most Used Languages
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
-  workflow_dispatch:  # Allows manual triggering
+    - cron: '0 0 * * *'  # Update daily
+  workflow_dispatch:  # Trigger manually
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+    - name: Checkout Repository
+      uses: actions/checkout@v2
 
-      - name: Update GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: jheelamhossain
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
-          layout: compact
-          count_private: true
-          theme: radical
+    - name: Set up Node.js (required for GitHub Readme Stats)
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
 
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "Updated Most Used Languages dynamically"
-          git push
+    - name: Generate README Stats
+      run: |
+        curl -s https://raw.githubusercontent.com/anuraghazra/github-readme-stats/v4.0.0/src/index.js | node
+
+    - name: Commit and Push Changes
+      uses: EndBug/add-and-commit@v7
+      with:
+        message: 'Update Most Used Languages'
