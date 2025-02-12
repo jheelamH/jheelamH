@@ -38,8 +38,8 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
-<h3 align="left">Most Used Languages:</h3>
-<p align="left">
+<h3 align="center">Most Used Languages:</h3>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jheelamH&show_icons=true&layout=compact&count_private=true" alt="Most Used Languages"/>
 </p>
 
