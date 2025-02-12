@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jheelam Hossain</h1>
 <h3 align="center">A passionate CSE Student from Kolkata, India.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jheelamH&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jheelamH&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on **Sentiment Analysis based on NLP using transformer models**
