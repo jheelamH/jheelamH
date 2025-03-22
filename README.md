@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sentiment Analysis based on NLP using transformer models**
 
-- 🌱 I’m currently learning **Java and Cpp**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **ML and AI projects**
 
