@@ -3,9 +3,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jheelamH&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **Sentiment Analysis based on NLP using transformer models**
+- 🔭 I’m currently working on **Personal AI Research Assistant**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **ML and AI projects**
 
