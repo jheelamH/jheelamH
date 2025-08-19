@@ -39,5 +39,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jheelamH&show_icons=true&layout=compact&count_private=true" alt="Most Used Languages"/>
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jheelamH&theme=algolia&hide_border=true&border_radius=6" alt="GitHub Streak" /></a></p>
