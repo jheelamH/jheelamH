@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jheelam Hossain</h1>
-<h3 align="center">A passionate CSE Student from Kolkata, India.</h3>
+<h3 align="center">A passionate Machine Learning enthusiast from India.</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jheelamH&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
