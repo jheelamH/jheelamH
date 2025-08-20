@@ -1,24 +1,39 @@
-<h1 align="center">🌸 Hi there 👋, I'm Jheelam 🌸</h1>
-<h3 align="center">✨ Just a girl writing code & chasing dreams ✨</h3>
+<!-- 🌸 Cute Pinky GitHub Profile README -->
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jheelamH&label=Profile%20Views&color=ff69b4&style=flat" alt="profile-views" />
-</p>
+<h1 align="center">🌸 Hey, I'm Jheelam 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jheelamH&theme=rose_pine&no-frame=true&row=1&column=6" alt="trophies"/>
+  I'm a <b>girl coder</b> who loves solving problems, building projects,  
+  and sprinkling a little pink aesthetic into the coding world 💖🌷✨
 </p>
 
 ---
 
-- 🌷 I love solving problems and building cool projects  
-- 🌸 Currently exploring **Data Structures, Algorithms Using Java Along With Working on ML**  
-- 💕 Practicing **LeetCode daily** as part of my coding journey  
-- 💌 Reach me at: **jheelamhossain147@gmail.com**
+<h2 align="center">🌷 What I Do 🌷</h2>
+
+- 💻 Currently working on **Java LeetCode Solutions (daily uploads!)**  
+- 📘 Exploring **Computer Vision & AI** projects  
+- 🌸 Passionate about **coding consistently & growing as a developer**  
 
 ---
+
+<h2 align="center">💖 Support Me 🌸</h2>
+
+<p align="center">✨💖🌸━━━━━━━━━━━🌸💖✨</p>
+
+<h3 align="center">💖 If you like my work, please follow me & star my repos 🌸</h3>
+
+<p align="center">
+  <a href="https://github.com/jheelamH">
+    <img src="https://img.shields.io/badge/Follow%20Me-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me"/>
+  </a>
+  <a href="https://github.com/jheelamH?tab=repositories">
+    <img src="https://img.shields.io/badge/Star%20My%20Repos-ffb6c1?style=for-the-badge&logo=starship&logoColor=white" alt="Star My Repos"/>
+  </a>
+</p>
+
+<p align="center">✨💖🌸━━━━━━━━━━━🌸💖✨</p>
+
 
 <h3 align="left">✨ Connect with me:</h3>
 <p align="left">
