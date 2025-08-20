@@ -23,11 +23,12 @@
 
 ---
 
+
 <h2 align="center">💖 Support Me 🌸</h2>
 
 <p align="center">✨💖🌸━━━━━━━━━━━🌸💖✨</p>
 
-<h3 align="center">💖 If you like my work, please follow me & star my repos 🌸</h3>
+<h3 align="center">💖 If you like my work, please follow me, star my repos & check out my LeetCode journey 🌸</h3>
 
 <p align="center">
   <a href="https://github.com/jheelamH">
@@ -36,9 +37,13 @@
   <a href="https://github.com/jheelamH?tab=repositories">
     <img src="https://img.shields.io/badge/Star%20My%20Repos-ffb6c1?style=for-the-badge&logo=starship&logoColor=white" alt="Star My Repos"/>
   </a>
+  <a href="https://leetcode.com/cafe_cappuccino/">
+    <img src="https://img.shields.io/badge/LeetCode-cafe__cappuccino-ff69b4?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+  </a>
 </p>
 
 <p align="center">✨💖🌸━━━━━━━━━━━🌸💖✨</p>
+
 
 
 <h3 align="left">✨ Connect with me:</h3>
