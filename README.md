@@ -1,15 +1,13 @@
-
 <h1 align="center">🌸 Hey, I'm Jheelam 👩‍💻</h1>
 
 <h3 align="center">✨ Just a girl writing code & chasing dreams ✨</h3>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jheelamH&label=Profile%20Views&color=ff69b4&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=caffe-cappuccino&label=Profile%20Views&color=ff69b4&style=flat" alt="profile-views" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jheelamH&theme=rose_pine&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=caffe-cappuccino&theme=rose_pine&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
 
 ---
@@ -23,7 +21,6 @@
 
 ---
 
-
 <h2 align="center">💖 Support Me 🌸</h2>
 
 <p align="center">✨💖🌸━━━━━━━━━━━🌸💖✨</p>
@@ -31,10 +28,10 @@
 <h3 align="center">💖 If you like my work, please follow me, star my repos & check out my LeetCode journey 🌸</h3>
 
 <p align="center">
-  <a href="https://github.com/jheelamH">
+  <a href="https://github.com/caffe-cappuccino">
     <img src="https://img.shields.io/badge/Follow%20Me-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me"/>
   </a>
-  <a href="https://github.com/jheelamH?tab=repositories">
+  <a href="https://github.com/caffe-cappuccino?tab=repositories">
     <img src="https://img.shields.io/badge/Star%20My%20Repos-ffb6c1?style=for-the-badge&logo=starship&logoColor=white" alt="Star My Repos"/>
   </a>
   <a href="https://leetcode.com/cafe_cappuccino/">
@@ -43,8 +40,6 @@
 </p>
 
 <p align="center">✨💖🌸━━━━━━━━━━━🌸💖✨</p>
-
-
 
 <h3 align="left">✨ Connect with me:</h3>
 <p align="left">
@@ -79,9 +74,9 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jheelamH&show_icons=true&layout=compact&count_private=true&theme=rose_pine" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caffe-cappuccino&show_icons=true&layout=compact&count_private=true&theme=rose_pine" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jheelamH&theme=rose_pine&hide_border=true&border_radius=6" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=caffe-cappuccino&theme=rose_pine&hide_border=true&border_radius=6" alt="GitHub Streak" /></a>
 </p>
