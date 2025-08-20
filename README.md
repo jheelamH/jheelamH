@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hi there 👋, I'm Jheelam Hossain 🌸</h1>
+<h1 align="center">🌸 Hi there 👋, I'm Jheelam 🌸</h1>
 <h3 align="center">✨ Just a girl writing code & chasing dreams ✨</h3>
 
 ---
