@@ -8,12 +8,24 @@
 </p>
 
 ---
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jheelamH&label=Profile%20Views&color=ff69b4&style=flat" alt="profile-views" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jheelamH&theme=rose_pine&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+---
 
 <h2 align="center">🌷 What I Do 🌷</h2>
 
-- 💻 Currently working on **Java LeetCode Solutions (daily uploads!)**  
-- 📘 Exploring **Computer Vision & AI** projects  
-- 🌸 Passionate about **coding consistently & growing as a developer**  
+- 🌷 I love solving problems and building cool projects  
+- 🌸 Currently exploring **Data Structures, Algorithms Using Java Along With Working on ML**  
+- 💕 Practicing **LeetCode daily** as part of my coding journey  
+- 💌 Reach me at: **jheelamhossain147@gmail.com**
 
 ---
 
