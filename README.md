@@ -1,13 +1,7 @@
-<!-- 🌸 Cute Pinky GitHub Profile README -->
 
 <h1 align="center">🌸 Hey, I'm Jheelam 👩‍💻</h1>
 
-<p align="center">
-  I'm a <b>girl coder</b> who loves solving problems, building projects,  
-  and sprinkling a little pink aesthetic into the coding world 💖🌷✨
-</p>
-
----
+<h3 align="center">✨ Just a girl writing code & chasing dreams ✨</h3>
 ---
 
 <p align="center">
@@ -20,7 +14,7 @@
 
 ---
 
-<h2 align="center">🌷 What I Do 🌷</h2>
+<h2 align="left">🌷 What I Do 🌷</h2>
 
 - 🌷 I love solving problems and building cool projects  
 - 🌸 Currently exploring **Data Structures, Algorithms Using Java Along With Working on ML**  
