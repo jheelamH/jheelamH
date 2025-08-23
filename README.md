@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=caffe-cappuccino&label=Profile%20Views&color=ff69b4&style=flat" alt="profile-views" />
 </p>
 
-<p align="center">## 🏆 GitHub Trophies
+<p align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=caffe-cappuccino&theme=gruvbox&column=6)
 
