@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caffe-cappuccino&theme=rose_pine&no-frame=true&row=1&column=6" alt="trophies"/>
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=caffe-cappuccino&theme=flat)
 </p>
 
 ---
