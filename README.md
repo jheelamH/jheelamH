@@ -13,7 +13,7 @@
 - 🌷 I love solving problems and building cool projects  
 - 🌸 Currently exploring **Data Structures, Algorithms Using Java Along With Working on ML**  
 - 💕 Practicing **LeetCode daily** as part of my coding journey  
-- 💌 Reach me at: **jheelamhossain147@gmail.com**
+- 💌 Reach me at: **jheelamH@gmail.com**
 
 ---
 
