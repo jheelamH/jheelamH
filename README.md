@@ -6,8 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=caffe-cappuccino&label=Profile%20Views&color=ff69b4&style=flat" alt="profile-views" />
 </p>
 
-<p align="center">
-  https://github-profile-trophy.vercel.app/?username=caffe-cappuccino&theme=flat
+<p align="center">## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=caffe-cappuccino&theme=gruvbox&column=6)
+
 </p>
 
 ---
