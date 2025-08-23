@@ -5,14 +5,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=caffe-cappuccino&label=Profile%20Views&color=ff69b4&style=flat" alt="profile-views" />
 </p>
-
 <p align="center">
-
-![My Awesome GIF](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
-
-
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="300"/>
 </p>
-
 ---
 
 <h2 align="left">🌷 What I Do 🌷</h2>
