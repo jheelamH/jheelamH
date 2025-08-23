@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=caffe-cappuccino&theme=flat)
+  https://github-profile-trophy.vercel.app/?username=caffe-cappuccino&theme=flat
 </p>
 
 ---
