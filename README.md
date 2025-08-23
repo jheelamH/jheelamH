@@ -8,7 +8,8 @@
 
 <p align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=caffe-cappuccino&theme=gruvbox&column=6)
+![My Awesome GIF](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
+
 
 </p>
 
